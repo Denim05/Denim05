@@ -1,83 +1,72 @@
-<div align="center">
+# 💫 About Me
 
-# Hi, I'm Denim 👋
+Hey! I'm **Denim**, a B.Tech Computer Science student who enjoys building useful software and learning by shipping projects. I’m especially interested in **AI, mobile development, backend systems, and cloud technologies**.
 
-### B.Tech CSE Student · Developer · Builder of practical software
-
-*Exploring AI, full-stack development, mobile apps, and cloud technologies.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Denim05-181717?style=for-the-badge&logo=github)](https://github.com/Denim05)
-
-</div>
+- 🔭 Currently building and improving real-world software projects
+- 🌱 Learning more about AI integration, backend engineering, and cloud
+- 💬 Happy to talk about project ideas, app development, and problem-solving
+- 🤝 Open to learning opportunities and collaborating on interesting projects
 
 ---
 
-## About
+# 🚀 Projects
 
-I'm a Computer Science student who enjoys turning ideas into working applications. I learn best by building, testing, fixing bugs, and improving projects step by step.
+| Project | What it does |
+| --- | --- |
+| **[ProofFlow](https://github.com/Denim05/ProofFlow)** | An AI-powered evidence evaluation platform focused on organizing and assessing case evidence. |
+| **[Sistec Chalo](https://github.com/Denim05/Minor-SistecChalo)** | A college shuttle tracking project for bus routes and tracking information. |
+| **[AI Assistant for Education](https://github.com/Denim05/Smart-AI-Assistant-for-Education-01)** | An education-focused AI project exploring technology-supported learning. |
 
-- 🔭 **Building:** software projects with a focus on practical use
-- 🧠 **Exploring:** AI integration, backend development, and cloud
-- 🤝 **Interested in:** collaborating, learning, and solving real problems
+---
 
-## Featured Projects
+# 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### [ProofFlow](https://github.com/Denim05/ProofFlow)
+### Frameworks & Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-An AI-powered evidence evaluation platform designed to help organize and assess case evidence.
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Focus:** AI · Evidence workflows · Web development
+---
 
-</td>
-<td width="50%" valign="top">
-
-### [Sistec Chalo](https://github.com/Denim05/Minor-SistecChalo)
-
-A college shuttle tracking project focused on helping students access bus routes and tracking information.
-
-**Focus:** Mobile development · GPS · Real-time systems
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [AI Assistant for Education](https://github.com/Denim05/Smart-AI-Assistant-for-Education-01)
-
-An education-focused AI project exploring ways technology can support learning.
-
-**Focus:** AI · Education technology
-
-</td>
-</tr>
-</table>
-
-## Tech I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css,react,nextjs,flutter,nodejs,fastapi,mongodb,postgres,firebase,supabase,git,github,docker&perline=7" alt="Technologies: Python, C++, JavaScript, TypeScript, Dart, HTML, CSS, React, Next.js, Flutter, Node.js, FastAPI, MongoDB, PostgreSQL, Firebase, Supabase, Git, GitHub, Docker" />
-</p>
-
-## GitHub Activity
+# 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="./profile/stats.svg" alt="GitHub statistics" />
-</td>
-<td>
-<img src="./profile/top-langs.svg" alt="Most used programming languages" />
-</td>
-</tr>
-</table>
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=Denim05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="./profile/top-langs.svg" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Denim05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Denim05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -85,7 +74,7 @@ An education-focused AI project exploring ways technology can support learning.
 
 <div align="center">
 
-**Thanks for stopping by!** ⭐  
-Feel free to explore my repositories and connect through GitHub.
+**Thanks for visiting my profile!** ⭐  
+Feel free to explore my repositories.
 
 </div>
