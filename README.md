@@ -1,113 +1,18 @@
-<div align="center">
+# 💫 About Me:
+I'm a curious developer who loves turning random ideas into real-world applications. 🚀 From AI-powered platforms to mobile apps, I enjoy experimenting with technology, solving problems, and building things that actually make a difference. Always exploring, always building, and always looking for the next interesting challenge. ⚡<br>🔭 Currently exploring: Ideas that can become useful products<br><br><br><br>👯 Let's build: AI tools, creative apps, and open-source projects<br><br><br><br>🤝 Always up for: Brainstorming ideas and solving tricky bugs<br><br><br><br>🌱 Leveling up: AI, cloud, backend engineering, and system design<br><br><br><br>💬 We can talk about: Tech, side projects, app ideas, and coding<br><br><br><br>⚡ Fun fact: My favorite kind of problem is one that makes me say, “Wait… I think I can build that.”
 
-# 👋 Hey, I'm Denim
 
-### `B.Tech CSE Student` · `Software Developer` · `AI & Full-Stack Enthusiast`
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Denim05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Denim05&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Denim05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I build practical software projects across AI, web, and mobile — and I'm working toward my next software development internship.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Denim05-181717?style=for-the-badge&logo=github)](https://github.com/Denim05)
-[![Profile Views](https://komarev.com/ghpvc/?username=Denim05&style=for-the-badge&color=6C63FF)](https://github.com/Denim05)
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science undergraduate focused on practical software development.
-- 🧠 Interested in AI-powered applications, backend systems, and mobile development.
-- 🛠️ I learn by building projects, debugging real problems, and improving the implementation.
-- ☁️ Currently strengthening my cloud, networking, and system-design fundamentals.
-- 🎯 **Goal:** Find a software development internship where I can contribute, learn, and ship useful features.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Denim05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Denim05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧩 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 [ProofFlow](https://github.com/Denim05/ProofFlow)
-
-**Evidence Intelligence Platform**
-
-A full-stack project exploring how documents, screenshots, statements, and other evidence can be organized into traceable cases and timelines.
-
-**Built with:** Python · FastAPI · Next.js · TypeScript · Clerk
-
-</td>
-<td width="50%" valign="top">
-
-### 🚌 [SISTec Chalo](https://github.com/Denim05/Minor-SistecChalo)
-
-**Campus Shuttle Tracking**
-
-A campus mobility project focused on real-time shuttle updates and role-aware workflows for commuters and administrators.
-
-**Built with:** React Native · Expo · Node.js · Express · MongoDB · Socket.IO
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🤖 [GENzAI](https://github.com/Denim05/Smart-AI-Assistant-for-Education-01)
-
-**AI Career Coach**
-
-A full-stack AI career-coaching project that explores personalized guidance through a web application.
-
-**Built with:** Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Gemini
-
-🎬 [Watch the project demo](https://youtu.be/UbXpRv5ApKA)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,dart,html,css,react,nextjs,flutter,nodejs,express,fastapi,mongodb,postgres,prisma,firebase,gcp,aws,docker,git,github,vscode&perline=8" alt="Technologies and tools" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denim05&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Denim's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denim05&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Denim05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🌱 What I'm Working On
-
-- Building and documenting useful full-stack applications.
-- Improving API design, authentication, testing, and code quality.
-- Learning cloud infrastructure and networking through hands-on practice.
-- Preparing for software development internship interviews.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **software development internships**, collaborative projects, and opportunities to learn by building.
-
-- 💻 GitHub: [@Denim05](https://github.com/Denim05)
-- 📬 Reach me through the contact details on my GitHub account.
-
-<div align="center">
-
-### *Build useful things. Keep learning. Improve with every iteration.* ⚡
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
