@@ -56,17 +56,23 @@ Hey! I'm **Denim**, a B.Tech Computer Science student who enjoys building useful
 
 <img src="./profile/stats.svg" alt="GitHub Stats" />
 
+<br/>
+
 <img src="./profile/top-langs.svg" alt="Most Used Languages" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Denim05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Denim05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![View my GitHub profile and achievements](https://img.shields.io/badge/GitHub-View%20Profile%20%26%20Achievements-8957e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denim05?tab=achievements)
 
 </div>
 
